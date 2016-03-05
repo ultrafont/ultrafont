@@ -36,7 +36,7 @@ class HomeController extends Controller
 		$message->name = $request->input('name');
 		$message->email = $request->input('email');
 
-		if(!empty($request->input('city')))
+		if($request->input('city') != "")
 		{
 			$message->city = $request->input('city');
 		}
