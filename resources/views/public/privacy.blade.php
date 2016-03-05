@@ -65,6 +65,7 @@
             <p>
                 &copy; 2016 Ultrafont Soluciones en Tecnología S.A. de C.V.
                 &middot; <a href="http://www.github.com/ultrafont" target="_blank" >GitHub</a> 
+                &middot; <a href="{{ route('faq') }}">FAQ</a>
                 &middot; <a href="{{ route('privacy') }}">Privacidad</a>
             </p>
         </footer>

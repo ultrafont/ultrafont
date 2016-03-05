@@ -50,7 +50,7 @@
                         <p><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Email</p>
                         <img src="{{ asset('assets/images/email.png') }}" />
                     </div> 
-                </div> 
+                </div>
 
                 <br><br><br>
 
@@ -109,6 +109,7 @@
             <p>
                 &copy; 2016 Ultrafont Soluciones en Tecnología S.A. de C.V.
                 &middot; <a href="http://www.github.com/ultrafont" target="_blank" >GitHub</a>  
+                &middot; <a href="{{ route('faq') }}">FAQ</a>
                 &middot; <a href="{{ route('privacy') }}">Privacidad</a>
             </p>
         </footer>

@@ -144,15 +144,23 @@
             </div>
         </div>
         <hr class="featurette-divider">
+        <div class="row featurette">
+            <div class="col-md-12">
+                <h3 class="text-center">Domicilio</h3>
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d22140.24833312385!2d-103.37823365747457!3d20.679187915148557!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc347ca9a22b9cccb!2sNevermind!5e0!3m2!1sen!2smx!4v1457216602649" class="embed-responsive-item" frameborder="0" style="border:0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+        <hr class="featurette-divider">
         <!-- Features-->
-
-
-
+        
         <footer>
             <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-menu-up" aria-hidden="true"></span> Regresar</a></p>
             <p>
                 &copy; 2016 Ultrafont Soluciones en Tecnología S.A. de C.V.
                 &middot; <a href="http://www.github.com/ultrafont" target="_blank" >GitHub</a> 
+                &middot; <a href="{{ route('faq') }}">FAQ</a>
                 &middot; <a href="{{ route('privacy') }}">Privacidad</a>
             </p>
         </footer>

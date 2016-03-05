@@ -73,12 +73,23 @@
             </div>
         </div>
         <hr class="featurette-divider">
+        <div class="row featurette">
+            <div class="col-md-7">
+                <h2 class="featurette-heading">Publicidad: <span class="text-muted">Inbound y Outbound Marketing</span></h2>
+                <p class="lead">Diseño de campañas de marketing en Google Adwords, Facebook, Instagram, Twitter, Email Marketing, Email Transaccional y Mensajes publicitarios más humanos, trabajamos todo como un traje hecho a la medida para tu empresa.</p>
+            </div>
+            <div class="col-md-5">
+                <img class="featurette-image img-responsive center-block" src="{{ asset('assets/images/stuff9.png') }}" alt="Generic placeholder image">
+            </div>
+        </div>
+        <hr class="featurette-divider">
         <!-- Features-->
 
         <footer>
             <p>
                 &copy; 2016 Ultrafont Soluciones en Tecnología S.A. de C.V.
                 &middot; <a href="http://www.github.com/ultrafont" target="_blank" >GitHub</a> 
+                &middot; <a href="{{ route('faq') }}">FAQ</a>
                 &middot; <a href="{{ route('privacy') }}">Privacidad</a>
             </p>
         </footer>

@@ -15,6 +15,11 @@ class HomeController extends Controller
 		return view('public.privacy');
 	}
 
+	public function faq()
+	{
+		return view('public.faq');
+	}
+
 	public function techies()
 	{
 		return view('public.techies');
