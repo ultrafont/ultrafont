@@ -127,7 +127,7 @@
         <hr class="featurette-divider">
         <div class="row featurette">
             <div class="col-md-7">
-                <h2 class="featurette-heading">Caso de éxito: FijaAnuncios <span class="text-muted">Competencia de SegundaMano.mx</span></h2>
+                <h2 class="featurette-heading">Caso de éxito: <a href="http://www.github.com/ultrafont" target="_blank" >FijaAnuncios</a> <span class="text-muted">Competencia de SegundaMano.mx</span></h2>
                 <p class="lead">Un sistema completo que incluye panel de administrador para enviar emails, administrar usuarios y anuncios, estadísticas internas, subida de archivos, bases de datos y todo lo que tu sistema demande.</p>
             </div>
             <div class="col-md-5">
